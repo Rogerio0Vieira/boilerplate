@@ -7,7 +7,7 @@
 Em termos de programação um boilerplate são blocos de codigo que são usados sempre, neste caso, criado para servir de start 
 para projetos utilizando Vite.
 
-## Quais tecnologias usadas neste boilerplate ? 🤔
+## Quais as principais tecnologias usadas neste boilerplate ? 🤔
 
 - [Vite](https://vitejs.dev/)
   - Vite é uma ferramenta de construção para libs e frameworks frontend 
